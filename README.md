@@ -1,5 +1,7 @@
 # app
 
+[![CodeFactor](https://www.codefactor.io/repository/github/bestinspire/nuxt.js-todolist-app/badge)](https://www.codefactor.io/repository/github/bestinspire/nuxt.js-todolist-app)
+
 ## Build Setup
 
 ```bash
